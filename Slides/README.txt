@@ -1,0 +1,1 @@
+Slides for the 2026 "Introduction to Scientific Programming with Python" course.
